@@ -53,7 +53,7 @@ A secure REST API built with Golang (Fiber) for user authentication and personal
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/D43M0N18/GO-AUTH-NOTES/tree/main
    cd go-auth-notes
    ```
 
